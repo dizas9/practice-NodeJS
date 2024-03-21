@@ -11,6 +11,10 @@
   "author": "Md Sazid(dizas9)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.3"
+    "connect-mongodb-session": "^5.0.0",
+    "express": "^4.18.3",
+    "express-session": "^1.18.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.2"
   }
 }
